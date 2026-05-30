@@ -7,7 +7,7 @@ Make sure to install dependencies:
 pnpm install
 ```
 
-## Development Server
+## Development Server 
 
 Start the development server on `http://localhost:3000`:
 
