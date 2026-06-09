@@ -2,3 +2,5 @@ allowBuilds:
   '@parcel/watcher': true
   esbuild: true
   unrs-resolver: false
+minimumReleaseAgeExclude:
+  - '@nuxtjs/color-mode@4.0.1'
